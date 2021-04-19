@@ -1,0 +1,2 @@
+# Radiopathomics-pCR-nCRT
+Development and Validation of a Radiopathomics Prediction Model for Early Assessment of Pathological Complete Response for Locally Advanced Rectal Cancer: a multicenter, prospective study
